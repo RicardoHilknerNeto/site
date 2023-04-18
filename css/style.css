@@ -1,0 +1,114 @@
+body{
+   background-color: lightslategray;
+}
+
+.cabecalho {
+    background-color: lightslategray;
+    width: 100%;
+    height: 50px;
+}
+
+.cabecalho a{
+    font-size: 36px;
+    padding-left: 16px;
+    margin-left: 10%;
+    text-decoration: none;
+    color: #000;
+}
+
+img{
+    width: 100%;
+    height: 500px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.map{
+    background-image: url(/img/imgmapa.jpg);
+    background-repeat: no-repeat;
+}
+
+iframe{
+    position: relative;
+    left: 25%;
+    width: 50%;
+    margin-top: 10px;
+}
+
+#redxblue{
+    float: left;
+    width: 25%;
+    height: 25%;
+}
+
+#dif{
+    margin: 2.5% 0 0 10%;
+}
+
+.pf{
+    margin-left: 30%;
+}
+
+.rodape{
+    margin-top: 10%;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.rodape img{
+    position: relative;
+    left: 45%;
+    padding-top: 1.5%;
+    width: 10%;
+    height: 50%;
+}
+
+.photos{
+    width: 20%;
+    height: 20%;
+    border-radius: 10px;
+    border: 4px solid #000;
+}
+
+#pai2{
+    width: 20%;
+    height: 220px;
+    border-radius: 10px;
+    border: 4px solid #000;
+}
+
+.machos h3{
+    position: relative;
+    left: 32%;
+    top: 60px;
+    font-size: 24px;
+}
+
+.machos p{
+    position: relative;
+    left: 22%;
+    bottom: 200px;
+    font-size: 16px;
+    width: 30%;
+}
+
+.machos img{
+    padding-right: 30%;
+}
+
+
+
+.rodape a{
+    color: #FFF;
+    margin-left: 30%;
+    position: relative;
+    top: 20%;
+}
+
